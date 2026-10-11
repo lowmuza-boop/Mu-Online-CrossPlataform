@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////
-// AI∞¸∑√ «‘ºˆ
-// ≈∏ƒœπÊ«‚¿∏∑Œ πÊ«‚ ∆≤±‚, ±Ê√£±‚, fps±∏«œ±‚ µÓµÓ
+// AIÍ¥ÄÎ†® Ìï®Ïàò
+// ÌÉÄÏºìÎ∞©Ìñ•ÏúºÎ°ú Î∞©Ìñ• ÌãÄÍ∏∞, Í∏∏Ï∞æÍ∏∞, fpsÍµ¨ÌïòÍ∏∞ Îì±Îì±
 //
-// *** «‘ºˆ ∑π∫ß: 2
+// *** Ìï®Ïàò Î†àÎ≤®: 2
 ///////////////////////////////////////////////////////////////////////////////
 
 #include "stdafx.h"
@@ -17,7 +17,7 @@
 #include "ZzzOpenglUtil.h"
 #include "ZzzInterface.h"
 #include "ZzzEffect.h"
-#include "zzzScene.h"
+#include "ZzzScene.h"
 #include "DSPlaySound.h"
 #include "GMCrywolf1st.h"
 #include "ZzzPath.h"
@@ -310,7 +310,7 @@ void SetAction_Fenrir_Damage(CHARACTER* c, OBJECT* o)
 		SetAction(o, PLAYER_FENRIR_DAMAGE_ONE_LEFT);
 	else if(c->Weapon[0].Type != -1 && c->Weapon[1].Type != -1 && c->Weapon[0].Type ==MODEL_BOW+15)
 		SetAction(o, PLAYER_FENRIR_DAMAGE_ONE_LEFT);
-	else	// ∏«º’
+	else	// Îß®ÏÜê
 		SetAction(o, PLAYER_FENRIR_DAMAGE);
 #ifdef PBG_ADD_NEWCHAR_MONK_ANI
 	}
