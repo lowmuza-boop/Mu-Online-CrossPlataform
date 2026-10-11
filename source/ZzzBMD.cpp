@@ -8,7 +8,7 @@
 #include "ZzzBMD.h"
 #include "ZzzObject.h"
 #include "ZzzCharacter.h"
-#include "Zzzlodterrain.h"
+#include "ZzzLodTerrain.h"
 #include "ZzzTexture.h"
 #include "ZzzAI.h"
 #include "SMD.h"
