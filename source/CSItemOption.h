@@ -4,7 +4,7 @@
 #define __CSITEM_OPTION_H__
 
 #include "Singleton.h"
-#include "zzzinfomation.h"
+#include "ZzzInfomation.h"
 #include <map>
 
 
