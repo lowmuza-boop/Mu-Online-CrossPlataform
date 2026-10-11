@@ -4,7 +4,7 @@
 
 #pragma once
 
-#include "zzzinfomation.h"
+#include "Zzzinfomation.h"
 #include "ZzzBMD.h"
 #include "ZzzObject.h"
 #include "ZzzCharacter.h"
