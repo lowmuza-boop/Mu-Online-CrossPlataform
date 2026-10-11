@@ -2,7 +2,7 @@
 #include "CComGem.h"
 #include "ZzzOpenglUtil.h"
 #include "ZzzTexture.h"
-#include "wsclientinline.h"
+#include "Wsclientinline.h"
 #include "ZzzInventory.h"
 #include "NewUIInventoryCtrl.h"
 #include "NewUISystem.h"
