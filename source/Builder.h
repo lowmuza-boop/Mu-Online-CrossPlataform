@@ -8,7 +8,7 @@
 #define AFX_BUILDER_H__35C2431A_4627_4EDA_B60F_828C8C795357__INCLUDED_
 
 #include "Singleton.h"
-#include "interface.h"
+#include "Interface.h"
 
 #pragma once
 
