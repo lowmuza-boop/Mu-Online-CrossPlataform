@@ -3,8 +3,8 @@
 //////////////////////////////////////////////////////////////////////////
 #ifndef __GOBOID_H__
 #define __GOBOID_H__
+#include "ZzzObject.h"
 
-#include "zzzObject.h"
 
 bool CreateBugSub ( int Type, vec3_t Position, OBJECT *Owner, OBJECT * o, int SubType=0, int LinkBone=0 );
 void CreateBug ( int Type, vec3_t Position, OBJECT *Owner, int SubType=0, int LinkBone=0 );
@@ -15,7 +15,7 @@ void RenderBugs ( void );
 void RenderDarkHorseSkill ( OBJECT* o, BMD* b );
 void RenderSkillEarthQuake ( CHARACTER* c, OBJECT* o, BMD* b, int iMaxSkill = 30);
 void DeleteBug(OBJECT *Owner);
-// ¾ÆÀÌÅÛÀÌ Æê ¾ÆÀÌÅÛÀÎ°¡?
+// Â¾Ã†Ã€ÃŒÃ…Ã›Ã€ÃŒ Ã†Ãª Â¾Ã†Ã€ÃŒÃ…Ã›Ã€ÃŽÂ°Â¡?
 bool IsBug(ITEM* pItem);	
 
 void MoveBoids ( void );            
