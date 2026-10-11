@@ -7,7 +7,7 @@
 #include "ZzzTexture.h"
 #include "ZzzBMD.h"
 #include "ZzzInfomation.h"
-#include "zzzObject.h"
+#include "ZzzObject.h"
 #include "zzzcharacter.h"
 #include "Zzzinfomation.h"
 #include "NewUISystem.h"
