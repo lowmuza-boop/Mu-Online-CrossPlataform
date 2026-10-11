@@ -9,7 +9,7 @@
 #include "ZzzInfomation.h"
 #include "ZzzObject.h"
 #include "ZzzCharacter.h"
-#include "Zzzinfomation.h"
+#include "ZzzInfomation.h"
 #include "NewUISystem.h"
 #include "Platform/RenderBackend.h"
 
