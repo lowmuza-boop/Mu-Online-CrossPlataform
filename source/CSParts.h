@@ -3,11 +3,10 @@
 //////////////////////////////////////////////////////////////////////////
 #ifndef __CSPARTS_H__
 #define __CSPARTS_H__
-
-#include "ZzzBmd.h"
-#include "Zzzinfomation.h"
-#include "Zzzobject.h"
-#include "Zzzcharacter.h"
+#include "ZzzBMD.h"
+#include "ZzzInfomation.h"
+#include "ZzzObject.h"
+#include "ZzzCharacter.h"
 
 class CSIPartsMDL
 {
