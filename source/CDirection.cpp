@@ -9,7 +9,7 @@
 #include "ZzzLodTerrain.h"
 #include "ZzzInterface.h"
 #include "CDirection.h"
-#include "wsclientinline.h"
+#include "Wsclientinline.h"
 #include "MapManager.h"
 #include "NewUISystem.h"
 
