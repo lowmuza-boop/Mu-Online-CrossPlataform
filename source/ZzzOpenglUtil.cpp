@@ -8,7 +8,7 @@
 #include "ZzzBMD.h"
 #include "ZzzInfomation.h"
 #include "ZzzObject.h"
-#include "zzzcharacter.h"
+#include "ZzzCharacter.h"
 #include "Zzzinfomation.h"
 #include "NewUISystem.h"
 #include "Platform/RenderBackend.h"
