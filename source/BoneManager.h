@@ -3,8 +3,8 @@
 #define _BONEMANAGER_H_
 
 #pragma once
-
 #include "ZzzInfomation.h"
+
 #include "ZzzBMD.h"
 #include "ZzzObject.h"
 #include "ZzzCharacter.h"
